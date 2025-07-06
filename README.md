@@ -1,4 +1,4 @@
-ش# 🎮 Ninja Quiz Game
+# 🎮 Ninja Quiz Game
 
 An educational and entertaining quiz game that challenges your knowledge across various fields!
 
